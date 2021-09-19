@@ -60,7 +60,7 @@ function enviarform(){
 	const usuarioadmin = "admin";
 	const contrasenaadmin ="12345";
 
-	const usuariodueno = "empleado";
+	const usuariodueno = "cliente";
 	const contrasenadueno ="12345";
 	
 	
